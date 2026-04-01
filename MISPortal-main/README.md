@@ -21,4 +21,4 @@ A complete employee and attendance management system.
 3. Run the project
 
 ## Author
-SAU Student
+Fardeen Ali
